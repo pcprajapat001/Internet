@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+  background-color: black;
+  color: white;
+}
+
+#status {
+  font-size: 34px;
+  margin-top: 34px;
+}
+
+#statusIcon {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+img {
+  height: 200px;
+}
